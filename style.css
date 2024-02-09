@@ -1,0 +1,52 @@
+body {
+    background-color:  #3264ff;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+}
+
+.texto{
+    font-size: 20px; 
+    color: white;   
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    background-color: black;
+}
+
+.logo{
+    width: 140px;
+}
+
+.img{
+    width: 40%;
+    height: auto;
+    display: inline-flex;
+}
+.link{
+    color: gold;
+    list-style-type: none;
+    text-decoration: none;
+}
+.lista{
+    font-size: 20px;
+    color: white;
+    text-decoration: none; 
+}
+.titulo-secundario{
+    color: black;
+}
+.titulo-terciario{
+    font-size: 25px;
+    color: black;
+}
+.link-t2s{
+    color: black;
+}
